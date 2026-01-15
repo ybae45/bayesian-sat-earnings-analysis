@@ -43,3 +43,6 @@ This project uses U.S. Department of Education College Scorecard institution-lev
 - Markov Chain Monte Carlo (MCMC) sampling
 - No-U-Turn Sampler (NUTS) for improved convergence
 - Posterior diagnostics including trace plots and autocorrelation analysis
+
+## Authors
+Yoonseo Bae, Vivian Liu, Riddhi Bharj

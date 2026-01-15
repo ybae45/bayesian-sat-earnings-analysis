@@ -37,9 +37,9 @@ This project uses U.S. Department of Education College Scorecard institution-lev
 2. Does the relationship between SAT scores and earnings vary across geographic regions in the United States?
 
 ### Analysis and Visualization Techniques: 
-Descriptive statistics by region
-Exploratory data analysis (histograms, scatter plots, trend lines)
-Bayesian hierarchical linear regression
-Markov Chain Monte Carlo (MCMC) sampling
-No-U-Turn Sampler (NUTS) for improved convergence
-Posterior diagnostics including trace plots and autocorrelation analysis
+- Descriptive statistics by region
+- Exploratory data analysis (histograms, scatter plots, trend lines)
+- Bayesian hierarchical linear regression
+- Markov Chain Monte Carlo (MCMC) sampling
+- No-U-Turn Sampler (NUTS) for improved convergence
+- Posterior diagnostics including trace plots and autocorrelation analysis

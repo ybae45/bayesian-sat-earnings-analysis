@@ -22,21 +22,15 @@ A Bayesian hierarchical regression framework to model earnings while accounting 
 We used College Scorecard data, institution-level data files for 1996-97 through 2022-23 containing aggregate data for each institution. Data inclues information on institutional characteristics, enrollment, student aid, costs, and student outcomes.
 This project uses U.S. Department of Education College Scorecard institution-level data from academic years 1996–1997 through 2022–2023. The dataset contains aggregated information for each institution, including:
 
-Average SAT scores
+- Average SAT scores
+- Median earnings of graduates (measured 10 years after entry)
+- Institutional characteristics and geographic regions
 
-Median earnings of graduates (measured 10 years after entry)
-
-Institutional characteristics and geographic regions
-
-Data Cleaning Steps
-
-Removed institutions with missing or invalid SAT score or earnings data
-
-Standardized variable names and formats across years
-
-Filtered to institutions with sufficient reporting coverage
-
-Aggregated and aligned SAT and earnings variables to ensure comparability
+## Data Cleaning Steps
+1. Removed institutions with missing or invalid SAT score or earnings data
+2. Standardized variable names and formats across years
+3. Filtered to institutions with sufficient reporting coverage
+4. Aggregated and aligned SAT and earnings variables to ensure comparability
 
 ### Research Question
 1. Do higher average SAT scores predict higher post-graduation earnings at U.S. universities?

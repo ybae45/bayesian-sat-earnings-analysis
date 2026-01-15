@@ -1,5 +1,3 @@
-ef# BayesianStatFinalProject
-
 ## Project Intro/Objective
 Purpose of this project is to examine ... [Purpose of the project. Description of the problem you are studying and the purpose of and rationale of the project.]
 
